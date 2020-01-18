@@ -1,0 +1,5 @@
+name: Ironfall
+version: 1.0.0
+main: me.border.Ironfall.Main
+description: A plugin meant to execute IronGolems when faling over 15 blocks
+author: MrBorder
